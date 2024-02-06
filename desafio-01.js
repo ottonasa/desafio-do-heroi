@@ -3,7 +3,7 @@ let xp = 7542;
 
 switch (true) {
     case xp < 1000:
-        nivel = "Ferro";
+        let nivel = "Ferro";
         break
 
     case xp > 1000 && xp <= 2000:
